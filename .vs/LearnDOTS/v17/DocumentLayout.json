@@ -3,7 +3,43 @@
   "WorkspaceRootPath": "D:\\Projects\\Unity Project\\LearnDOTS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|d:\\projects\\unity project\\learndots\\assets\\2.entity\\spawnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|d:\\projects\\unity project\\learndots\\assets\\3.dynamicentity\\cannonballsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\cannonballsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|d:\\projects\\unity project\\learndots\\assets\\3.dynamicentity\\tankmovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\tankmovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|D:\\Projects\\Unity Project\\LearnDOTS\\assets\\3.dynamicentity\\shootingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\shootingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|D:\\Projects\\Unity Project\\LearnDOTS\\assets\\3.dynamicentity\\tankauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\tankauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|D:\\Projects\\Unity Project\\LearnDOTS\\assets\\3.dynamicentity\\cannonballauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\cannonballauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|D:\\Projects\\Unity Project\\LearnDOTS\\assets\\3.dynamicentity\\playersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\playersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|D:\\Projects\\Unity Project\\LearnDOTS\\assets\\3.dynamicentity\\tankspawnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\tankspawnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|D:\\Projects\\Unity Project\\LearnDOTS\\assets\\3.dynamicentity\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|D:\\Projects\\Unity Project\\LearnDOTS\\assets\\3.dynamicentity\\configauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\3.dynamicentity\\configauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|D:\\Projects\\Unity Project\\LearnDOTS\\assets\\2.entity\\spawnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F325AA6F-F14B-8516-004E-0C4CD9C5508B}|Assembly-CSharp.csproj|solutionrelative:assets\\2.entity\\spawnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,15 +86,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CannonBallSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\CannonBallSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\CannonBallSystem.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\CannonBallSystem.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\CannonBallSystem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwDEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:56:05.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TankMovementSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\TankMovementSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\TankMovementSystem.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\TankMovementSystem.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\TankMovementSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:42:12.936Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ShootingSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\ShootingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\ShootingSystem.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\ShootingSystem.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\ShootingSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:31:22.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CannonBallAuthoring.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\CannonBallAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\CannonBallAuthoring.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\CannonBallAuthoring.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\CannonBallAuthoring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:18:05.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\PlayerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\PlayerSystem.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\PlayerSystem.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\PlayerSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:22:32.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\Player.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\Player.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:56:16.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TankSpawnSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\TankSpawnSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\TankSpawnSystem.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\TankSpawnSystem.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\TankSpawnSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:08:55.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigAuthoring.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\ConfigAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\ConfigAuthoring.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\ConfigAuthoring.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\ConfigAuthoring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:59:20.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TankAuthoring.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\TankAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\3.DynamicEntity\\TankAuthoring.cs",
+              "ToolTip": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\3.DynamicEntity\\TankAuthoring.cs",
+              "RelativeToolTip": "Assets\\3.DynamicEntity\\TankAuthoring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:21:37.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SpawnSystem.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\2.Entity\\SpawnSystem.cs",
               "RelativeDocumentMoniker": "Assets\\2.Entity\\SpawnSystem.cs",
@@ -66,12 +212,11 @@
               "RelativeToolTip": "Assets\\2.Entity\\SpawnSystem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T06:43:24.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T06:43:24.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "SpawnerAuthoring.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\2.Entity\\SpawnerAuthoring.cs",
               "RelativeDocumentMoniker": "Assets\\2.Entity\\SpawnerAuthoring.cs",
@@ -83,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "CubeRotationSystem.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\2.Entity\\CubeRotationSystem.cs",
               "RelativeDocumentMoniker": "Assets\\2.Entity\\CubeRotationSystem.cs",
@@ -95,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "RotationSpeedAuthoring.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\2.Entity\\RotationSpeedAuthoring.cs",
               "RelativeDocumentMoniker": "Assets\\2.Entity\\RotationSpeedAuthoring.cs",
@@ -107,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "FindNearestJob.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\1.Jobs\\FindNearestJob.cs",
               "RelativeDocumentMoniker": "Assets\\1.Jobs\\FindNearestJob.cs",
@@ -119,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "FindNearest.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\1.Jobs\\FindNearest.cs",
               "RelativeDocumentMoniker": "Assets\\1.Jobs\\FindNearest.cs",
@@ -131,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "PerObjectMaterialProperty.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\1.Jobs\\PerObjectMaterialProperty.cs",
               "RelativeDocumentMoniker": "Assets\\1.Jobs\\PerObjectMaterialProperty.cs",
@@ -143,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Spawner.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\1.Jobs\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\1.Jobs\\Spawner.cs",
@@ -155,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Seeker.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\1.Jobs\\Seeker.cs",
               "RelativeDocumentMoniker": "Assets\\1.Jobs\\Seeker.cs",
@@ -167,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Target.cs",
               "DocumentMoniker": "D:\\Projects\\Unity Project\\LearnDOTS\\Assets\\1.Jobs\\Target.cs",
               "RelativeDocumentMoniker": "Assets\\1.Jobs\\Target.cs",
